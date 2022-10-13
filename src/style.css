@@ -1,0 +1,36 @@
+h1{
+    text-shadow:6px 6px 6px #5b472130;
+    font-size:65px;
+   
+}
+.a{
+   font-size:70px;
+   font-style:normal;
+   color:rgb(214, 55, 55);
+   text-align:center;
+  
+}
+li.b{
+    list-style-type:disc;
+    font-size:30px;
+    color:#542a13;
+    font-style:oblique;
+   
+
+}
+li.c{
+    list-style-type:disc;
+    font-size:30px;
+    color:#542a13;;
+    font-style:oblique;
+   
+
+}
+li.d{
+    list-style-type:disc;
+    font-size:30px;
+    color:#542a13;;
+    font-style:oblique;
+   
+
+}
